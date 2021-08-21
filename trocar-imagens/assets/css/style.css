@@ -1,0 +1,72 @@
+body {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  margin: 0;
+  font-size: 15px;
+  background: #ccc;
+}
+
+.container {
+  margin: 100px auto;
+  max-width: 700px;
+  border-radius: 10px;
+  background: #fff;
+  padding: 10px;
+  display: flex;
+}
+
+.principal {
+  max-width: 400px;
+}
+
+img {
+  width: 100%;
+  border-radius: 5px;
+}
+
+.bottoes {
+  margin: 5px;
+}
+
+button {
+  border: 1px solid #ccc;
+  padding: 5px;
+  font-size: 15px;
+}
+
+button:hover {
+  background: #aaa;
+  border: 1px solid #fff;
+}
+
+.description {
+  border: 2px solid #aaa;
+  border-radius: 5px;
+  width: 300px;
+  padding: 10px;
+  margin-left: 10px;
+}
+
+.description p {
+  font-size: 14px;
+}
+
+.title {
+  height: 200px;
+}
+
+.title h1 {
+  margin: 0;
+  font-size: 20px;
+  text-transform: uppercase;
+}
+
+.tamanhos {
+  display: block;
+  padding: 10px;
+  height: 120px;
+  background: #ddd;
+}
+
+.tamanhos p {
+  margin: 0;
+}
