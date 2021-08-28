@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: "Fira Code", "Franklin Gothic Medium", "Arial Narrow", Arial;
+  color: #fff;
+}
+
+h1, p {
+  margin: 0;
+}
+
+.container {
+  margin: 50px auto;
+  width: max-content;
+  background-color: #0061B5;
+  padding: 10px;
+}
+
+input,
+button {
+  width: 100px;
+  border: 1px solid #fff;
+  padding: 5px;
+  outline: 0;
+  color: #0061B5;
+  font-weight: bold;
+}
+
+.resultado {
+  margin-top: 5px;
+  padding: 10px;
+  color: #0061B5;
+  font-weight: bold;
+  word-spacing: 2px;
+  background-color: #fff;
+}
+
+.resultado-invalido {
+  color: red;
+}
