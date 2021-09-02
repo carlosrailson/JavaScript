@@ -1,6 +1,7 @@
 # Trocador de Imagens
 
-![Screenshot 2021-09-01 at 16-28-51 Trocar Imagens](https://user-images.githubusercontent.com/85134349/131732165-3062e6da-21a9-4a30-8488-c6982e795a09.png)
+![Screenshot 2021-09-02 at 17-49-20 Trocar Imagens](https://user-images.githubusercontent.com/85134349/131914282-daef0962-fddc-4abc-b286-7a09b6efe210.png)
+
 
 ## Resumo:
 
